@@ -1,0 +1,25 @@
+[RELS01] Legend of Zelda: Collector's Edition
+
+OOT: Infinite Deku Nuts
+00BE0315 00000009
+
+OOT: Infinite Deku Sticks
+00BE0314 00000009
+
+OOT: Infinite Health
+02BE02B8 00000140
+
+OOT: Infinite Rupees
+02BE02BC 000003E7
+
+OOT: Infinite Slingshot Seeds
+00BE031A 00000009
+
+MM: Infinite Health
+02CBC0E6 00000140
+
+MM: Infinite Magic
+00CBC0E9 00000030
+
+MM: Infinite Rupees
+02CBC0EA 000003E7
